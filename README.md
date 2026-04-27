@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 
 # Hey there, I'm Bukho Mabhula. I am a student at Cape Peninsula University of Technology.
 
@@ -17,7 +14,7 @@
 
 * 🔭 Working on: Pulse-guard Project
 * 🌱 Learning: Backend with node and how to make node applications faster 
-* ⚡ Fun fact: you can make node applications run faster using addons (NAPI-RS)
+* ⚡ Fun fact: you can achieve parallel programming in node.js using worker_thread or through addons
 
 ---
 
@@ -91,12 +88,3 @@
 ## 💬 Quote
 
 *"Code. Break. Fix. Repeat."*
-
----
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
