@@ -75,7 +75,7 @@
   <a href="https://github.com/Bukho127">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="[https://linkedin.com/in/bukho-mabhula-44724a211]">
+  <a href="https://linkedin.com/in/bukho-mabhula-44724a211">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:[Bukho.mabula06@gmail.com]">
