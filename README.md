@@ -13,8 +13,8 @@
  I enjoy solving real-world problems through coding
 
 * 🔭 Working on: Pulse-guard Project
-* 🌱 Learning: Backend with node and how to make node applications faster 
-* ⚡ Fun fact: you can achieve parallel programming in node.js using worker_thread or through addons
+* 🌱 Learning: Advanced Node.js backend optimization & performance tuning 
+* ⚡ Fun fact: fact: Node.js can achieve parallelism using worker_threads and native addons
 
 ---
 
