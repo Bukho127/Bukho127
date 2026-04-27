@@ -1,5 +1,5 @@
 
-# Hey there, I'm Bukho Mabhula. I am a student at Cape Peninsula University of Technology.
+# Hey there, I'm Bukho Mabhula.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Vue+%7C+Node;Building+Real+World+Projects" />
@@ -87,4 +87,4 @@
 
 ## Quote
 
-*"Code. Break. Fix. Repeat."*
+*"Talk is cheap show me the code."*
