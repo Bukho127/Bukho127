@@ -5,19 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Vue+%7C+Node;Building+Real+World+Projects" />
 </p>
 
----
-
-## About Me
-
- I am a Full-Stack Developer passionate about building scalable apps
- I enjoy solving real-world problems through coding
-
-* 🔭 Working on: Pulse-guard Project
-* 🌱 Learning: Advanced Node.js backend optimization & performance tuning 
-* ⚡ Fun fact: fact: Node.js can achieve parallelism using worker_threads and native addons
-
----
-
 ## Tech Stack
 
 ### Languages
