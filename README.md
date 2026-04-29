@@ -1,27 +1,23 @@
 
-# Hey there, I'm Bukho Mabhula.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Vue+%7C+Node;Building+Real+World+Projects" />
-</p>
 
 ## Tech Stack
 
 ### Languages
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
 </p>
 
 ### Frontend
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=react,vue" />
 </p>
 
 ### Backend
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
@@ -33,7 +29,7 @@
 
 ### Tools & Platforms
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,firebase" />
 </p>
 
@@ -45,11 +41,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bukho127&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://streak-stats.demolab.com?user=Bukho127&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukho127&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -58,7 +54,7 @@
 
 ## Connect With Me
 
-<p align="center">
+<p >
   <a href="https://github.com/Bukho127">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
