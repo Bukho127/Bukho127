@@ -23,7 +23,7 @@
 
 ### Databases
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
@@ -52,22 +52,4 @@
 ---
 
 
-## Connect With Me
 
-<p >
-  <a href="https://github.com/Bukho127">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com/in/bukho-mabhula-44724a211">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:[Bukho.mabula06@gmail.com]">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-## Quote
-
-*"Talk is cheap show me the code."*
